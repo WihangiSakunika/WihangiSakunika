@@ -4,13 +4,16 @@
 I'm Wihangi from Sri Lanka, and I do content on Design and Development. I really enjoy learning languages and frameworks like Angular and React, as well as working in Wix. I also enjoy wireframing, UI, Ux, and design in general. and one of my Favorite Learning is Cyber Security. You Can Check out me on Linkedin at https://www.linkedin.com/in/wihangi-sakunika-955a8b19a/ or https://lhewagewihangi.wixsite.com/wihangi-ls.
 
 ## Skills and Experience
-* ✡ Angular
+Angular : 
+![alt text](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg)
 * 💻 Wix 
 * ☕ Java
 * 🖤 HTML , CSS ,JS 
 
 - 🔭 I’m currently working on infoseek Pvt Ltd 
 - 🌱 I’m currently learning Angular 
+- 💬 Ask me about IT Technologies 
+- 📫 How to reach me: lhewagewihangi@gmail.com 
 
 ## Example of Work
 
