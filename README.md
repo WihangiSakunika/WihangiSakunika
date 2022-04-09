@@ -1,6 +1,6 @@
 ### Hi there 👋, Wihangi Sakunika
 #### Design and Development
-![Design and Development](https://pbs.twimg.com/profile_banners/1510543948154281985/1649520903/1500x500)
+![Design and Development](https://github.com/WihangiSakunika/WihangiSakunika/blob/main/Blue%20and%20White%20Quotes%20Twitter%20Post.jpg)
 
 I'm Wihangi from Sri Lanka, and I do content on Design and Development. I really enjoy learning languages and frameworks like Angular and React, as well as working in Wix. I also enjoy wireframing, UI, Ux, and design in general. and one of my Favorite Learning is Cyber Security. You Can Check out me on Linkedin at https://www.linkedin.com/in/wihangi-sakunika-955a8b19a/ or https://lhewagewihangi.wixsite.com/wihangi-ls.
 
