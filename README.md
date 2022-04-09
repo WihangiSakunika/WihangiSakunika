@@ -1,10 +1,14 @@
-### Hi there 👋, Wihangi Sakunika
-#### Design and Development
 ![Design and Development](https://github.com/WihangiSakunika/WihangiSakunika/blob/main/Blue%20and%20White%20Quotes%20Twitter%20Post.jpg)
 
+### Hi there 👋, I'm Wihangi Sakunika
 I'm Wihangi from Sri Lanka, and I do content on Design and Development. I really enjoy learning languages and frameworks like Angular and React, as well as working in Wix. I also enjoy wireframing, UI, Ux, and design in general. and one of my Favorite Learning is Cyber Security. You Can Check out me on Linkedin at https://www.linkedin.com/in/wihangi-sakunika-955a8b19a/ or https://lhewagewihangi.wixsite.com/wihangi-ls.
 
-Skills: Angular/ JS / HTML / CSS
+## Skills and Experience
+* ✡ Angular
+* 💻 Wix 
+* ☕ Java
+* 🖤 HTML , CSS ,JS 
+
 
 - 🔭 I’m currently working on infoseek Pvt Ltd 
 - 🌱 I’m currently learning Angular 
