@@ -5,7 +5,7 @@ I'm Wihangi from Sri Lanka, and I do content on Design and Development. I really
 
 ## Skills and Experience
 Angular : 
-![alt text](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg "Logo Title Text 1" width="50" height="50")
+![alt text](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg "width="50" height="50"" )
 * 💻 Wix 
 * ☕ Java
 * 🖤 HTML , CSS ,JS 
