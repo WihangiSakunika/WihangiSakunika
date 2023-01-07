@@ -15,7 +15,8 @@ I'm Wihangi from Sri Lanka, and I do content on Design and Development. I really
 
 ## Girls Know The Technology
 <img src = "https://github.com/WihangiSakunika/WihangiSakunika/blob/main/me.gif?raw=true" width="256"/>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="wihangi-sakunika-955a8b19a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/wihangi-sakunika-955a8b19a?trk=profile-badge">Wihangi sakunika</a></div>
+              
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/wihangi-sakunika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/wihangi-sakunika" height="30" width="40" /></a>
