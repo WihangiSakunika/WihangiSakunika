@@ -38,5 +38,5 @@ I'm a Frontend Developer and Designer . Currently an undergraduate student at Ca
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wihangisakunika&show_icons=true&locale=en" alt="wihangisakunika" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wihangisakunika&" alt="wihangisakunika" /></p>
+
 
