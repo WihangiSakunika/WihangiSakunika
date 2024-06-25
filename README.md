@@ -132,9 +132,4 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/WihangiSakunika/WihangiSakunika/output/snake.svg" alt="Snake animation" />
 
