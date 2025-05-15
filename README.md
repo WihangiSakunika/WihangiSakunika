@@ -42,13 +42,6 @@ Hi there! I’m **Wihangi Sakunika**, a passionate and resilient woman in tech �
 ![Git](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=black)
 
 ---
-
-### ✨ Let's Connect
-
-- 🌐 [LinkedIn](https://www.linkedin.com/) — (Add your profile link here)
-- 📸 TikTok Aesthetic Vlogs (500+ followers!)
-- ✍️ Writing, Research & QA Sessions
-
 > _“She’s not just in tech — she’s shaping it.”_
 
 ---
