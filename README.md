@@ -11,8 +11,6 @@ Hi there! I’m **Wihangi Sakunika**, a passionate and resilient woman in tech �
 - 🎓 Master's Student in IT | BSc in Software Engineering (Cardiff Metropolitan University)
 - 🧪 QA Enthusiast | Manual & Automation Tester (Selenium, Cypress, Postman)
 - 💻 Ex-Fullstack Developer turned passionate Quality Engineer
-- 📖 ISTQB & AI in Agile Explorer | Researching defect prediction with AI
-- 🧠 Future PhD holder & Lecturer in the making
 - 🗣 Seminar speaker & knowledge sharer
 - 🎨 Creative soul with a love for storytelling, aesthetic vlogging, and cultural exploration
 
@@ -29,10 +27,9 @@ Hi there! I’m **Wihangi Sakunika**, a passionate and resilient woman in tech �
 ### 🌍 Fun Facts
 
 - 🇱🇰 Born and raised in Sri Lanka
-- ✈️ First dream travel destination: Thailand
 - 🧋 Obsessed with tea times and balanced routines
 - 🎤 Love BTS, K-culture, and soulful music
-- 📖 Writer of bold, socially-aware stories like *Brown* — a tale that blends love, identity, and cultural depth
+- 📖 Content Writer
 
 ---
 
