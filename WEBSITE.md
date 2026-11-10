@@ -52,4 +52,4 @@ Chromium/Playwright checks passed at 1440×1000, 768×1024, 390×844, and 320×7
 
 GitHub and Academia.edu profile URLs returned HTTP 200. LinkedIn rejected automated access with HTTP 999; its address matches the user-provided URL and README header, but the destination content could not be independently checked.
 
-Publishing was attempted after review. Both command-line Git push and the connected GitHub branch-creation tool returned HTTP 403. No remote branch, pull request, repository settings change, or deployment was made. Enable repository Contents write access for the GitHub connection before retrying. The supplied ZIP can alternatively be extracted and its files uploaded to the repository root; it excludes the profile README and original images to preserve them.
+Publication uses the repository’s existing GitHub Pages configuration: `main` at `/ (root)`. Website changes are reviewed and tested before being pushed to `main`. Check the `pages-build-deployment` workflow for the current deployment result. The supplied ZIP excludes the profile README and original images to preserve them.
