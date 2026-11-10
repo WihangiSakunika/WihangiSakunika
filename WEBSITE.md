@@ -27,10 +27,11 @@ If the checkout directory is named `WihangiSakunika`, visit `http://localhost:80
 - `index.html`: biography, research interests, projects, education, experience, skills, contact, and SEO metadata.
 - `assets/styles.css`: responsive sidebar, typography, colors, print styles, and reduced-motion support.
 - `assets/main.js`: progressive mobile menu, section highlighting, and footer year. All page content and links remain available without JavaScript.
-- `assets/images/wihangi-sakunika.jpg`: real GitHub avatar downloaded from https://avatars.githubusercontent.com/u/87114249?v=4.
+- `assets/images/Professional Passport Portrait of Indian Woman.png`: portrait uploaded to the repository and selected by the user for the website profile and social preview.
+- `assets/images/wihangi-sakunika.jpg`: previous GitHub avatar, retained as an unused asset.
 - `assets/images/favicon.svg`: original WS monogram.
 
-Update the local portrait when the GitHub avatar changes. The site does not depend on third-party fonts, scripts, or icon services.
+Update the website portrait when the user selects a replacement. The selected portrait uses URL-encoded spaces in asset links and is cropped into a circle with CSS. The site does not depend on third-party fonts, scripts, or icon services.
 
 ## Content sources and decisions
 

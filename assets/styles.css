@@ -130,6 +130,7 @@ nav a:hover,nav a[aria-current] {
   width:174px;
   height:174px;
   object-fit:cover;
+  object-position:center 25%;
   border-radius:50%;
   border:6px solid white;
   outline:1px solid var(--line);
