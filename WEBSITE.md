@@ -45,3 +45,11 @@ The correct LinkedIn URL in the README header and task brief is used. A malforme
 ## Maintenance checks
 
 Test at desktop, tablet, and mobile widths; check the menu with keyboard and touch; verify every anchor and local asset; check browser console errors and horizontal overflow. Keep external profile links at their verified addresses with `rel="noopener noreferrer"`. LinkedIn and Academia.edu may restrict automated visitors or require sign-in, so their destination content should be checked while signed in when necessary.
+
+## Validation for this implementation
+
+Chromium/Playwright checks passed at 1440×1000, 768×1024, 390×844, and 320×700 under `/WihangiSakunika/`. Every internal anchor resolved; the real local avatar loaded; there was no horizontal overflow, failed asset response, or page script error. Mobile menu opening, link-triggered closing, Escape, and no-JavaScript navigation passed. Desktop and mobile screenshots were visually reviewed. JavaScript syntax and Git whitespace checks passed. The original README SHA-256 is `a0a008e71241f9b41ada5caee203a3ae5bf343d749c13c48fc19e9fbb52d66d5`.
+
+GitHub and Academia.edu profile URLs returned HTTP 200. LinkedIn rejected automated access with HTTP 999; its address matches the user-provided URL and README header, but the destination content could not be independently checked.
+
+Publishing was attempted after review. Both command-line Git push and the connected GitHub branch-creation tool returned HTTP 403. No remote branch, pull request, repository settings change, or deployment was made. Enable repository Contents write access for the GitHub connection before retrying. The supplied ZIP can alternatively be extracted and its files uploaded to the repository root; it excludes the profile README and original images to preserve them.
